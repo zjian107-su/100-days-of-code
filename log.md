@@ -49,6 +49,25 @@
 
 **Thoughts:** Showing your ability to develop an efficient algorithm is much more important and difficult rather than dealing with user input 🥸. I don't enjoy ACM mode much, I prefer core function mode. 
 
+### Day 6: January 12, 2022
+
+
+**Today's Progress**: 
+- 8 LeetCode Practices
+
+**Thoughts** Being unhappy with what you don’t yet know is a sign that you’re a good developer.
+
+### Day 7: January 13, 2022
+
+
+**Today's Progress**: 
+- Finished 3 LeetCode practices
+- Earned 2 badges - Algo 01 and DS 01 in Python 
+- Completed 1 OA from DB - 1 hour
+  
+
+**Thoughts:** DP, DFS, BFS, Matrix are difficult problems to solve. Whenever I find those in OA, I panic a little 😆, and sometimes I have to give up on them. Today marks my day 20 streak! Hooray!
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
