@@ -68,6 +68,30 @@
 
 **Thoughts:** DP, DFS, BFS, Matrix are difficult problems to solve. Whenever I find those in OA, I panic a little 😆, and sometimes I have to give up on them. Today marks my day 20 streak! Hooray!
 
+### Day 8: January 14, 2022
+
+
+**Today's Progress**: 
+- 1 LeetCode practice
+  
+**Thoughts:** headq.heapify(aList) =  O(n)
+
+### Day 9: January 15, 2022
+
+
+**Today's Progress**: 
+- 2 hours OA from BD
+  
+
+**Thoughts:** 
+Sum: the OA was fairly easy but handling user input in different formats need some practices. 
+
+1. **Top-Down**: memoization is a great way for computationally expensive programs, **recursion**; **Botton-up**: an effective way of avoiding recursion by decreasing the time complexity that recursion builds up, recursion with memoization
+2. Good quotes from @[cool_shark](https://leetcode.com/cool_shark) from [LeetCode.com](http://LeetCode.com)
+
+> Training with LeetCode is like training for a marathon. For an onsite interview or programming competition, one needs to endure minimum 90 minutes to 6 hours of pain, that demand great deal of mental stamina and experience both of which require time to accumulate. With the exception of those naturally talented people who can run a full marathon without any preparation, normal people usually need to dedicate 6 months to 2 years of consistent training to be ready for a race. The preparation usually starts with a mild jogging, then gradually increase distance and speed so that one can run faster and longer. Beginners who never ran marathon have massive anxiety and are completely overwhelmed. But with planning and consistent training, anybody can run marathon including disabled people and 80 years old people.
+>
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
