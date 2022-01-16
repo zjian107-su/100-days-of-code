@@ -92,6 +92,16 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 > Training with LeetCode is like training for a marathon. For an onsite interview or programming competition, one needs to endure minimum 90 minutes to 6 hours of pain, that demand great deal of mental stamina and experience both of which require time to accumulate. With the exception of those naturally talented people who can run a full marathon without any preparation, normal people usually need to dedicate 6 months to 2 years of consistent training to be ready for a race. The preparation usually starts with a mild jogging, then gradually increase distance and speed so that one can run faster and longer. Beginners who never ran marathon have massive anxiety and are completely overwhelmed. But with planning and consistent training, anybody can run marathon including disabled people and 80 years old people.
 >
 
+
+### Day 10: January 16, 2022
+
+
+**Today's Progress**: 
+- 
+  
+
+**Thoughts:** 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
