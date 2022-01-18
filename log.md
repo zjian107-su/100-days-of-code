@@ -103,6 +103,15 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Thoughts:** I skipped one day because I was too tired from driving. And it is not a productive day today. But, let’s keep it going. Ahhhhh, matrix!
 
+### Day 11: January 18, 2022
+
+
+**Today's Progress**: 
+
+  
+
+**Thoughts:** 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
