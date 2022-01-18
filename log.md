@@ -93,14 +93,15 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 >
 
 
-### Day 10: January 16, 2022
+### Day 10: January 17, 2022
 
 
 **Today's Progress**: 
-- 
+- 1 LeetCode practice
+- Read about functional programming - Elixir
   
 
-**Thoughts:** 
+**Thoughts:** I skipped one day because I was too tired from driving. And it is not a productive day today. But, let’s keep it going. Ahhhhh, matrix!
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
