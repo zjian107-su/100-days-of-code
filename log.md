@@ -107,10 +107,10 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 
 **Today's Progress**: 
-
+- 4 LeetCode practices
   
 
-**Thoughts:** 
+**Thoughts:** I get better in matrix! Hooray! 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
