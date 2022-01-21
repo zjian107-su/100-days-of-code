@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 ## I want to advance my Python programming and program documentation skills.
+## More personal development content recorded on Intagram: danielzezheng.dev
 
 ### Day 1: January 05, 2022
 
