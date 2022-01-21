@@ -119,7 +119,7 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Today's Progress**: 
 - 5 LeetCode practices
-- Attempted unfinsihed 1 LeetCode pratice (TBC)
+- Attempted 1 LeetCode practice (TBC)
   
 
 **Thoughts:** I caught up on some work from the break I took yesterday. I enjoyed my interview with TM yesterday. I look forward to finishing 7 problems tomorrow to earn my Dynamic Programming I badge! I have earned Algo 01 and DS 01 in Python. Let's go!
