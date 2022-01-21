@@ -112,6 +112,17 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Thoughts:** I get better in matrix! Hooray! 
 
+
+### Day 12: January 20, 2022
+
+
+**Today's Progress**: 
+- 5 LeetCode practices
+- Attempted unfinsihed 1 LeetCode pratice (TBC)
+  
+
+**Thoughts:** I caught up on some work from the break I took yesterday. I enjoyed my interview with TM yesterday. I look forward to finishing 7 problems tomorrow to earn my Dynamic Programming I badge! I have earned Algo 01 and DS 01 in Python. Let's go!
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
