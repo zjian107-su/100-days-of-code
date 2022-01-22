@@ -133,6 +133,16 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Thoughts:** I finished 7 problems and earned my Dynamic Programming I badge! 
 
+### Day 14: January 22, 2022
+
+
+**Today's Progress**: 
+- 11:33am starting Async JS crash course
+- 
+  
+
+**Thoughts:** 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
