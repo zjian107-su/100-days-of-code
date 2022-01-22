@@ -124,6 +124,15 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Thoughts:** I caught up on some work from the break I took yesterday. I enjoyed my interview with TM yesterday. I look forward to finishing 7 problems tomorrow to earn my Dynamic Programming I badge! I have earned Algo 01 and DS 01 in Python. Let's go!
 
+### Day 13: January 21, 2022
+
+
+**Today's Progress**: 
+- 7 LeetCode practices
+  
+
+**Thoughts:** I finished 7 problems and earned my Dynamic Programming I badge! 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
