@@ -137,11 +137,11 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 
 **Today's Progress**: 
-- 11:33am starting Async JS crash course
-- 
-  
+- Learned JS: callbacks, promises, async/await
+- Reviewed LeetCode pratices
 
-**Thoughts:** 
+
+**Thoughts:** It's a productive day. I would like to know where my time goes in more detail, so I started another time tracker here. Raw data is recorded in MD format. data is calculated within Excel.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
