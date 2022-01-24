@@ -143,6 +143,18 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 **Thoughts:** It's a productive day. I would like to know where my time goes in more detail, so I started another time tracker here. Raw data is recorded in MD format. data is calculated within Excel.
 
+### Day 15: January 23, 2022
+
+
+**Today's Progress**: 
+- Got more solid understanding of callbacks, promises and async/await usages.
+- Skimmed some VueJS vids
+
+**Thoughts:** 
+- [This freecodecamp video is golden for async topic!](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+- [VueJS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+  
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)

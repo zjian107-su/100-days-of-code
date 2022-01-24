@@ -16,4 +16,11 @@
 - 22:59 take a break from LeetCode and reading
 - 23:32 back from a dog walk
 - 00:23 done today
-
+  
+## Date: 01/22/2022
+#### Hours Sum: 6 hrs
+- 12:40 start the Async JS crash course
+- 14:00 break
+- 14:10 back to study
+- 14:43 went for late lunch
+- TBC
