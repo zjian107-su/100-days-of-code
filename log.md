@@ -153,7 +153,23 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 **Thoughts:** 
 - [This freecodecamp video is golden for async topic!](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 - [VueJS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
-  
+
+### Day 16: January 24, 2022
+
+
+**Today's Progress**: 
+- 1 LeetCode
+
+**Thoughts:** 
+🏃‍♂️🏃‍♂️🏃‍♂️
+### Day 17: January 25, 2022
+
+
+**Today's Progress**: 
+- 
+
+**Thoughts:** 
+
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
