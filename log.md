@@ -166,9 +166,20 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 
 **Today's Progress**: 
-- 
+- 1 hr of Swift vid 
+### Day 18: January 27, 2022
 
-**Thoughts:** 
+
+**Today's Progress**: 
+- 1 hr of OA
+
+### Day 19: January 30, 2022
+- 2 hr of interview pratice with my amigo
+
+**Thoughts:** I learned a lot about DS and computer architecture from my amigo. I got my medium problem solved in 50 minutes in fake interview. I am still happy😏
+
+
+
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
