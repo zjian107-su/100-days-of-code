@@ -163,21 +163,30 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 **Thoughts:** 
 🏃‍♂️🏃‍♂️🏃‍♂️
 ### Day 17: January 25, 2022
-
-
 **Today's Progress**: 
 - 1 hr of Swift vid 
+
+
 ### Day 18: January 27, 2022
-
-
 **Today's Progress**: 
 - 1 hr of OA
 
 ### Day 19: January 30, 2022
+
+**Today's Progress**: 
 - 2 hr of interview pratice with my amigo
+
 
 **Thoughts:** I learned a lot about DS and computer architecture from my amigo. I got my medium problem solved in 50 minutes in fake interview. I am still happy😏
 
+
+### Day 20: Febuary 01, 2022
+
+**Today's Progress**: 
+- 2 LeetCode practice (including 1 review)
+
+
+**Thoughts:** 8 hours working for my part-time job, 2 hours hanging out with friends for dinner, and spending the rest for homework. It is productive.
 
 
 
