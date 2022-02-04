@@ -158,7 +158,7 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 
 
 **Today's Progress**: 
-- 1 LeetCode
+- 1 LeetCode practice
 
 **Thoughts:** 
 🏃‍♂️🏃‍♂️🏃‍♂️
@@ -183,11 +183,33 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 ### Day 20: Febuary 01, 2022
 
 **Today's Progress**: 
-- 2 LeetCode practice (including 1 review)
+- 2 LeetCode practices (including 1 review)
 
 
 **Thoughts:** 8 hours working for my part-time job, 2 hours hanging out with friends for dinner, and spending the rest for homework. It is productive.
 
+### Day 21: Febuary 02, 2022
+
+**Today's Progress**: 
+- 1 LeetCode practice
+- continued to  learn stuff about Elixir and Phoenix framework
+
+
+**Thoughts:** 020222!!!! So many `2` in this date! After coding for so long, I am more sensitive to numbers and digits now🥸.
+
+### Day 22: Febuary 03, 2022
+
+**Today's Progress**: 
+- 2 LeetCode practice
+- Read Elixir doc
+
+
+**Thoughts:** Often you realize you did totally wrong after spending hours and hours attempting to solve a problem. You fail so many times, then you elevate your pain tolerance.
+
+> ✨**You are good because you were bad. The worse you were, the more potential of growth you can get.**  ✨
+> 
+
+Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁‍♂️
 
 
 
