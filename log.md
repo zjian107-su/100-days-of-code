@@ -209,7 +209,14 @@ Sum: the OA was fairly easy but handling user input in different formats need so
 > ✨**You are good because you were bad. The worse you were, the more potential of growth you can get.**  ✨
 > 
 
-Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁‍♂️
+Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁‍♂️ 
+### Day 23: Febuary 05, 2022
+
+**Today's Progress**: 
+- 2 LeetCode practice
+
+**Thoughts:** The merge K sorted lists problem needs the function of merge 2 sorted lists, and “devide and conquer”.
+
 
 
 
