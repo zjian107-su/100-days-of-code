@@ -223,6 +223,13 @@ Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁
 
 **Thoughts:** I got a phone call at 4:00 am from my friend. I started to mumble in different languages, and then I also mentioned Elixir. It means I am getting it🤪. 
 
+### Day 24: Febuary 07, 2022
+
+**Today's Progress**: 
+
+
+**Thoughts:** 
+
 
 
 
