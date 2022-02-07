@@ -216,6 +216,12 @@ Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁
 - 2 LeetCode practice
 
 **Thoughts:** The merge K sorted lists problem needs the function of merge 2 sorted lists, and “devide and conquer”.
+### Day 23: Febuary 06, 2022
+
+**Today's Progress**: 
+- 4 LeetCode practice (plus 1 review)
+
+**Thoughts:** I got a phone call at 4:00 am from my friend. I started to mumble in different languages, and then I also mentioned Elixir. It means I am getting it🤪. 
 
 
 
