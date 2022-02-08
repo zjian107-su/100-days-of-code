@@ -226,10 +226,13 @@ Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁
 ### Day 24: Febuary 07, 2022
 
 **Today's Progress**: 
-
+- 1 LeetCode practice
+- 3 hours of Swift
 
 **Thoughts:** 
+It was a productive day. I worked and studied from 9:30 am to 0:30 am. It looked like 15 hours, but I spent 2 hours for my dinner. So it was 12 hours;) 
 
+I am not very tired with my current workload becasue I am content ☺️.
 
 
 
