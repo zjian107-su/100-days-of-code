@@ -216,14 +216,14 @@ Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁
 - 2 LeetCode practice
 
 **Thoughts:** The merge K sorted lists problem needs the function of merge 2 sorted lists, and “devide and conquer”.
-### Day 23: Febuary 06, 2022
+### Day 24: Febuary 06, 2022
 
 **Today's Progress**: 
 - 4 LeetCode practice (plus 1 review)
 
 **Thoughts:** I got a phone call at 4:00 am from my friend. I started to mumble in different languages, and then I also mentioned Elixir. It means I am getting it🤪. 
 
-### Day 24: Febuary 07, 2022
+### Day 25: Febuary 07, 2022
 
 **Today's Progress**: 
 - 1 LeetCode practice
@@ -233,6 +233,13 @@ Dang salty chicken soup - good soup  💁‍♂️💁‍♂️💁‍♂️💁
 It was a productive day. I worked and studied from 9:30 am to 0:30 am. It looked like 15 hours, but I spent 2 hours for my dinner. So it was 12 hours;) 
 
 I am not very tired with my current workload becasue I am content ☺️.
+### Day 26: Febuary 08, 2022
+
+**Today's Progress**: 
+- 3 hours of Swift
+
+**Thoughts:** 
+8 + 8 = 16 hr. 👍
 
 
 
