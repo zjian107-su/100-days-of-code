@@ -241,7 +241,15 @@ I am not very tired with my current workload becasue I am content ☺️.
 **Thoughts:** 
 8 + 8 = 16 hr. 👍
 
+### Day 27: Febuary 18, 2022
 
+**Today's Progress**: 
+- 1.5 hours of interview practice
+
+**Thoughts:** 
+My LeetCode skills get a little cold after resting for 10 days.
+
+Big day!🤪 I got another summer intern offer
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
