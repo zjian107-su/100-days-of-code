@@ -265,6 +265,14 @@ struct vs class
 **Today's Progress**: 
 - Swift for 2 hours
 
+### Day 30: March 02, 2022
+
+**Today's Progress**: 
+- Swift for 3 hours
+
+**Thoughts:** 
+MVVM, mutation, observer, struct and class
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
