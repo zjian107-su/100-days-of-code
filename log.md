@@ -259,6 +259,12 @@ Big day!🤪 I got another summer intern offer
 **Thoughts:** 
 struct vs class
 
+
+### Day 29: March 01, 2022
+
+**Today's Progress**: 
+- Swift for 2 hours
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
