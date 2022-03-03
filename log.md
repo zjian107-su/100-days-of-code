@@ -251,6 +251,14 @@ My LeetCode skills get a little cold after resting for 10 days.
 
 Big day!🤪 I got another summer intern offer
 
+### Day 28: Febuary 28, 2022
+
+**Today's Progress**: 
+- Swift
+
+**Thoughts:** 
+struct vs class
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
