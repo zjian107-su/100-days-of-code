@@ -272,6 +272,13 @@ struct vs class
 
 **Thoughts:** 
 MVVM, mutation, observer, struct and class
+### Day 31: March 19, 2022
+
+**Today's Progress**: 
+- Elixir full review:  var, atom, condition, list, tuple, dict, aync (parallel), recursion, func, module. 
+
+**Thoughts:** 
+After drinking a few hours of elixir,  I am technically stronger. 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
