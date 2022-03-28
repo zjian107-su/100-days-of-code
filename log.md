@@ -279,6 +279,24 @@ MVVM, mutation, observer, struct and class
 
 **Thoughts:** 
 After drinking a few hours of elixir,  I am technically stronger. 
+### Day 32: March 27, 2022
+
+**Today's Progress**: 
+ctrl-B Move the cursor left
+ctrl-F Move the cursor right d
+ctrl-P View the previous command (or move the cursor up)
+ctrl-N View the next command (or move the cursor down)
+ctrl-A Move the cursor to the beginning of the line**
+
+**ctrl-E Move the cursor to the end of the line
+ctrl-W Erase the preceding word
+ctrl-U Erase from cursor to beginning of line
+ctrl-K Erase from cursor to end of line**
+
+ctrl-Y Paste erased text (for example, from ctrl-U)
+
+**Thoughts:** 
+Linux is cool, but I found it hard to practice those commands in good use. For example, some of the materials, like symbolic links, I have learned those in my operating system class. I don’t find it practical in working place, yet. 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
