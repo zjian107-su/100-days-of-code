@@ -297,6 +297,17 @@ ctrl-Y Paste erased text (for example, from ctrl-U)
 
 **Thoughts:** 
 Linux is cool, but I found it hard to practice those commands in good use. For example, some of the materials, like symbolic links, I have learned those in my operating system class. I don’t find it practical in working place, yet. 
+### Day 32: March 27, 2022
+
+**Today's Progress**: 
+More than 5 hours of Phoenix (Elixir)
+
+- check version: `mix phoenix.new --version`
+- pgadmin, postgresql
+- phoenix new pages, controller, view, template, routers
+
+**Thoughts:** 
+I am stuck on the version problem because the current Phoenix(v1.6) set LiveView as the default and I am following a tutorial that used Phoenix(v1.5.5). I am working on the walkarounds, either learning the new version and implementing it in a new way by reading all the docs, or trying to roll back to 1.5.5 of Phoenix and the right version of Elixir. The tool configuration is daunting and I hope I can find better solutions.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
