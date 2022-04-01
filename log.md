@@ -297,7 +297,7 @@ ctrl-Y Paste erased text (for example, from ctrl-U)
 
 **Thoughts:** 
 Linux is cool, but I found it hard to practice those commands in good use. For example, some of the materials, like symbolic links, I have learned those in my operating system class. I don’t find it practical in working place, yet. 
-### Day 323: March 28, 2022
+### Day 33: March 28, 2022
 
 **Today's Progress**: 
 More than 5 hours of Phoenix (Elixir)
@@ -311,14 +311,32 @@ I am stuck on the version problem because the current Phoenix(v1.6) set LiveView
 ### Day 34: March 29, 2022
 
 **Today's Progress**: 
+Codes
 
 
+**Thoughts:** 
+None
+
+### Day 35: March 30, 2022
+
+**Today's Progress**: 
 - Generated fake data with Python Faker and csv file for db use
 - Operated Local PostgreSQL server with pgAdmin: create db, create dt, primary key, data type, constraint
 - Ran Python grpc instance
 
+
 **Thoughts:** 
 Now I can say that I have some experience in PostgreSQL. Hooray!
+### Day 35: March 30, 2022
+
+**Today's Progress**: 
+#imageLiteral( can be used as image literal caller.
+
+
+**Thoughts:** 
+Coding monkey I am let’s go
+
+
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
