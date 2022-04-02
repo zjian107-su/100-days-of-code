@@ -327,7 +327,8 @@ None
 
 **Thoughts:** 
 Now I can say that I have some experience in PostgreSQL. Hooray!
-### Day 35: March 30, 2022
+
+### Day 36: March 31, 2022
 
 **Today's Progress**: 
 #imageLiteral( can be used as image literal caller.
@@ -335,6 +336,16 @@ Now I can say that I have some experience in PostgreSQL. Hooray!
 
 **Thoughts:** 
 Coding monkey I am let’s go
+
+### Day 37: April 1, 2022
+
+**Today's Progress**: 
+- Alignment constraint and pining constraint in iOS
+- AWS QuickSight data modeling
+
+
+**Thoughts:** 
+It was nice to catch up with friends about their jobs and work life balances. Great day!
 
 
 
