@@ -346,6 +346,14 @@ Coding monkey I am let’s go
 
 **Thoughts:** 
 It was nice to catch up with friends about their jobs and work life balances. Great day!
+### Day 38: April 2, 2022
+
+**Today's Progress**: 
+- Linux reading
+
+
+**Thoughts:** 
+✨ I learned some stuff about viking, therapy dog and Linux commands!
 
 
 
