@@ -355,6 +355,17 @@ It was nice to catch up with friends about their jobs and work life balances. Gr
 **Thoughts:** 
 ✨ I learned some stuff about viking, therapy dog and Linux commands!
 
+### Day 39: April 5, 2022
+
+**Today's Progress**: 
+- Reading book “Data And Reality” by William Kent
+
+
+**Thoughts:** 
+Someone lend this book and comment this book as “50% of data and 50% of philosophy”. I like the way how the author starts this book by asking questions and throwing a bunch of examples to help people understand the questions. Learning by examples and clarifying with examples are the best way to go.
+
+Due to human language ambiguity, whoever got the power to define would have the greatest power, such as lawmakers and great innovators.
+Asking the accurate question is the most important for software engineers.
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
