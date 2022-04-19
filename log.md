@@ -366,6 +366,16 @@ Someone lend this book and comment this book as “50% of data and 50% of philos
 
 Due to human language ambiguity, whoever got the power to define would have the greatest power, such as lawmakers and great innovators.
 Asking the accurate question is the most important for software engineers.
+### Day 40: April 18, 2022
+
+**Today's Progress**: 
+- gRPC quick start and YouTube tutorials
+- Data modeling and data visualization
+
+
+**Thoughts:** 
+I just read that gPRC is actually a Google project. That is new. I am looking into that for my NLP class final project.  
+I also learned that the true size of map. For example, do you know Greenland is actually smaller than India? But on the map it is much bigger🥸?
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
