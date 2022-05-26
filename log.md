@@ -376,6 +376,15 @@ Asking the accurate question is the most important for software engineers.
 **Thoughts:** 
 I just read that gPRC is actually a Google project. That is new. I am looking into that for my NLP class final project.  
 I also learned that the true size of map. For example, do you know Greenland is actually smaller than India? But on the map it is much bigger🥸?
+### Day 41: May 26, 2022
+
+**Today's Progress**: 
+- 1.5 hours of reading
+- Some Guitar playing, and made 3 more new friends.
+
+
+**Thoughts:** 
+So I am reading the book A Programmer's Rantings by Steve Yegge. I finished around 80 pages and it talked about software architecture, language  features and how to program in general. This book is very interesting. I look forward to finishing it.
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
