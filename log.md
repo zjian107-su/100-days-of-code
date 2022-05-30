@@ -396,6 +396,15 @@ So I am reading the book A Programmer's Rantings by Steve Yegge. I finished arou
 **Thoughts:** 
 Continuing reading the book a programmer's rantings by Yegger, it concludes that weak type language brings the delusive sense of security, while strong type language finish the work much faster and cleaner. That’s was interesting.
 
+### Day 42: May 26, 2022
+
+**Today's Progress**: 
+- LeetSomeCode
+
+
+**Thoughts:** 
+LeetCode Practice tips
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
