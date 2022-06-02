@@ -386,7 +386,7 @@ I also learned that the true size of map. For example, do you know Greenland is 
 **Thoughts:** 
 So I am reading the book A Programmer's Rantings by Steve Yegge. I finished around 80 pages and it talked about software architecture, language  features and how to program in general. This book is very interesting. I look forward to finishing it.
 
-### Day 43: May 26, 2022
+### Day 42: May 26, 2022
 
 **Today's Progress**: 
 - Book reading
@@ -396,7 +396,7 @@ So I am reading the book A Programmer's Rantings by Steve Yegge. I finished arou
 **Thoughts:** 
 Continuing reading the book a programmer's rantings by Yegger, it concludes that weak type language brings the delusive sense of security, while strong type language finish the work much faster and cleaner. That’s was interesting.
 
-### Day 44: May 29, 2022
+### Day 43: May 29, 2022
 
 **Today's Progress**: 
 - LeetSomeCode
@@ -404,7 +404,7 @@ Continuing reading the book a programmer's rantings by Yegger, it concludes that
 
 **Thoughts:** 
 LeetCode Practice tips
-### Day 42: May 30, 2022
+### Day 44: May 30, 2022
 
 **Today's Progress**: 
 - 1.5 hrs in LeetCode
@@ -412,6 +412,14 @@ LeetCode Practice tips
 
 **Thoughts:** 
 I walked in the mall for a few hours, then I hiked for 4 hours to see a water fall. I made it to the 1.5 hrs coding practices tonight. Yay👍. Let’s get the new addition in. 
+### Day 45: May 30, 2022
+
+**Today's Progress**: 
+- 2 hrs in LeetCode
+
+
+**Thoughts:** 
+Good job on the day 2 of interview practice! Coding after 8 hours of working is definitely exhausting. My skill gets rusted. But over the summer, I should be back on track. Job season is up again! More updates are coming.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
