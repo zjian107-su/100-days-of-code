@@ -420,6 +420,13 @@ I walked in the mall for a few hours, then I hiked for 4 hours to see a water fa
 
 **Thoughts:** 
 Good job on the day 2 of interview practice! Coding after 8 hours of working is definitely exhausting. My skill gets rusted. But over the summer, I should be back on track. Job season is up again! More updates are coming.
+### Day 46: Jun 02, 2022
+
+**Today's Progress**: 
+- 30 minutes of LeetCoding
+
+**Thoughts:** 
+It’s slow today, so I went to skate to refresh my mind and enjoy exploring the city. 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
