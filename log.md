@@ -428,6 +428,15 @@ Good job on the day 2 of interview practice! Coding after 8 hours of working is 
 **Thoughts:** 
 It’s slow today, so I went to skate to refresh my mind and enjoy exploring the city. 
 
+### Day 49: Jun 07, 2022
+
+**Today's Progress**: 
+- Coded nearly 1 hour. 5 questions
+- Finished resume revision
+
+**Thoughts:** 
+If you write notes, including main data structures and some of the algorithm hints, that could help you review your LeetCode problems efficiently. For example, I write this note - “corner case first - if it's empty, then return empty list, or recursion and print the vale as a list in the middle.”. You can tell it’s No.94. 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
