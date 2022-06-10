@@ -436,6 +436,16 @@ It’s slow today, so I went to skate to refresh my mind and enjoy exploring the
 
 **Thoughts:** 
 If you write notes, including main data structures and some of the algorithm hints, that could help you review your LeetCode problems efficiently. For example, I write this note - “corner case first - if it's empty, then return empty list, or recursion and print the vale as a list in the middle.”. You can tell it’s No.94. 
+### Day 50: Jun 09, 2022
+
+**Today's Progress**: 
+- Coded nearly 1 hour. 6 questions
+- Hit the gym: 50 pushups, 50 sit-ups, 2 minutes of roping
+
+**Thoughts:** 
+Work out and practice coding are similar. You don’t lift 130 pounds often in real life, but you practice it in the gym. You probably deal with APIs and data transformation more than design algorithms in programming, but we spend a lot of time on it anyway. I don’t think some senior SDEs can even do code practices but they are good at what they do!
+
+`Coding practice (future career growth) - Personal side project (social impact) - Work knowledge growth (current job performance)`**. Those three things are like sleep - study - social triangle in college. Well, at least I ate a good meal today.** 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
