@@ -446,13 +446,22 @@ If you write notes, including main data structures and some of the algorithm hin
 Work out and practice coding are similar. You don’t lift 130 pounds often in real life, but you practice it in the gym. You probably deal with APIs and data transformation more than design algorithms in programming, but we spend a lot of time on it anyway. I don’t think some senior SDEs can even do code practices but they are good at what they do!
 
 `Coding practice (future career growth) - Personal side project (social impact) - Work knowledge growth (current job performance)`**. Those three things are like sleep - study - social triangle in college. Well, at least I ate a good meal today.** 
-### Day 51: Jun 1, 2022
+### Day 51: Jun 10, 2022
 
 **Today's Progress**: 
 - Coded for 0.5 hour
 
 **Thoughts:** 
 I went to meet a few new friends from the local instead of staying in and finish my 18 practice questions. I think it is worthy because I met a lop rabbit and I cut all his nails for my friend. 
+### Day 52: Jun 13, 2022
+
+**Today's Progress**: 
+- Coded for 3.5 hours, 3 medium problems.
+
+**Thoughts:** 
+I found nighttime passes faster than usual. According to my table, I try to get as many practices as possible in my schedule, but the more you do in one day, the more review you have to do later. For example, I am supposed to finish reviewing/coding for 12 previous questions, a medium would take me 20 minutes minimum, and an easy would take me 10 minutes to review. It would take me around 3 hours just to review.
+
+I shouldn’t pack too much in one go😆. Or push until burnout per say😅.
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
