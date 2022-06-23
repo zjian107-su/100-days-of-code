@@ -477,6 +477,13 @@ Let’s get it!
 
 **Thoughts:** 
 Bit operations are so funky! 
+### Day 55: Jun 22, 2022
+
+**Today's Progress**: 
+- Microsoft Azure Data Scientist 30 day challenge module 02 ongoing
+
+**Thoughts:** 
+Wow, so many 2 in today’s date!! It’s amazing😆. I will set an alarm for 122222 for sure I am looking forward to applying Azure AutoML in some of my work for prediction. Mainly they are Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector machine, Naive Bayes. I am 5 hours behind on this. I will go easier on my LeetCode and job apps for now. New priority for Ml modeling, validation and testing.
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
