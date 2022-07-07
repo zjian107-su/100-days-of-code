@@ -484,6 +484,27 @@ Bit operations are so funky!
 
 **Thoughts:** 
 Wow, so many 2 in today’s date!! It’s amazing😆. I will set an alarm for 122222 for sure I am looking forward to applying Azure AutoML in some of my work for prediction. Mainly they are Logistic Regression, k-Nearest Neighbors, Decision Trees, Support Vector machine, Naive Bayes. I am 5 hours behind on this. I will go easier on my LeetCode and job apps for now. New priority for Ml modeling, validation and testing.
+### Day 56: Jun 28, 2022
+
+**Today's Progress**: 
+- Completed 3 modules in Microsoft Azure 30 Days Challenge - Data Scientist
+- Completed 90 minutes OA interview coding
+- Read 30 minutes of Linux book - file system, device system, GRUB, system init, kernel boots and SWAP
+
+
+**Thoughts:**
+LeetCode is awesome for virtual/onsite, but what is good for OA? OA focuses so much on data manipulations like dates and strings and so on, and LeetCode doesn’t deal with dates.
+
+### Day 57: July 06, 2022
+
+**Today's Progress**: 
+- 1 hr coding practice
+
+
+**Thoughts:**
+This flu is killing me ;(
+
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
