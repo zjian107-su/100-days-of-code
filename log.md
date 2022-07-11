@@ -503,6 +503,17 @@ LeetCode is awesome for virtual/onsite, but what is good for OA? OA focuses so m
 
 **Thoughts:**
 This flu is killing me ;(
+### Day 57: July 06, 2022
+
+**Today's Progress**: 
+- 1.5 hr coding practice
+- 2.5 hours of online assessment
+
+
+**Thoughts:**
+I was reading BSS forums about how summer interns at Meta heard some negative news about their delays of return offer. That’s very unfortunate. 
+
+Now we have 5,000 more people doing coding practice just like me.
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
