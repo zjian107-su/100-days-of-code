@@ -514,6 +514,15 @@ This flu is killing me ;(
 I was reading BSS forums about how summer interns at Meta heard some negative news about their delays of return offer. That’s very unfortunate. 
 
 Now we have 5,000 more people doing coding practice just like me.
+### Day 58: July 11, 2022
+
+**Today's Progress**: 
+- 1 hr coding practice (6 quick reviews)
+- 1 hours of reading and 2 job apps
+
+
+**Thoughts:**
+I had a super big bow of Yunnan Cross Bridge Noddle with extra noodles. I was about to faint because of how good the food was. I was satisfied.  
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
