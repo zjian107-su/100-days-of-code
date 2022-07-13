@@ -503,7 +503,7 @@ LeetCode is awesome for virtual/onsite, but what is good for OA? OA focuses so m
 
 **Thoughts:**
 This flu is killing me ;(
-### Day 57: July 06, 2022
+### Day 58: July 06, 2022
 
 **Today's Progress**: 
 - 1.5 hr coding practice
@@ -514,7 +514,7 @@ This flu is killing me ;(
 I was reading BSS forums about how summer interns at Meta heard some negative news about their delays of return offer. That’s very unfortunate. 
 
 Now we have 5,000 more people doing coding practice just like me.
-### Day 58: July 11, 2022
+### Day 59: July 11, 2022
 
 **Today's Progress**: 
 - 1 hr coding practice (6 quick reviews)
@@ -523,6 +523,14 @@ Now we have 5,000 more people doing coding practice just like me.
 
 **Thoughts:**
 I had a super big bow of Yunnan Cross Bridge Noddle with extra noodles. I was about to faint because of how good the food was. I was satisfied.  
+### Day 60: July 12, 2022
+
+**Today's Progress**: 
+- 4 hrs job applications
+
+
+**Thoughts:**
+What a productive day! I ran for 40 minutes with Nabi, and I watched some Netflix version of Planet Earth. Animals are so cool. I learned there is a breed of snails from Peru. Each single snail has different pattern and color - it's so different that the predators are also confused if it will be the same good meal as he had yesterday.😅
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
