@@ -531,6 +531,15 @@ I had a super big bow of Yunnan Cross Bridge Noddle with extra noodles. I was ab
 
 **Thoughts:**
 What a productive day! I ran for 40 minutes with Nabi, and I watched some Netflix version of Planet Earth. Animals are so cool. I learned there is a breed of snails from Peru. Each single snail has different pattern and color - it's so different that the predators are also confused if it will be the same good meal as he had yesterday.😅
+### Day 61: July 13, 2022
+
+**Today's Progress**: 
+- 0.5 hr coding practice
+- 0.5 hr job app
+
+
+**Thoughts:**
+I was too sleepy since 9PM and I couldn’t concentrate well. Maybe my leg muscle needs a recover from the run yesterday. 
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
