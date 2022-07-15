@@ -531,7 +531,7 @@ I had a super big bow of Yunnan Cross Bridge Noddle with extra noodles. I was ab
 
 **Thoughts:**
 What a productive day! I ran for 40 minutes with Nabi, and I watched some Netflix version of Planet Earth. Animals are so cool. I learned there is a breed of snails from Peru. Each single snail has different pattern and color - it's so different that the predators are also confused if it will be the same good meal as he had yesterday.😅
-### Day 61: July 13, 2022
+### Day 61: July 14, 2022
 
 **Today's Progress**: 
 - 0.5 hr coding practice
@@ -540,6 +540,25 @@ What a productive day! I ran for 40 minutes with Nabi, and I watched some Netfli
 
 **Thoughts:**
 I was too sleepy since 9PM and I couldn’t concentrate well. Maybe my leg muscle needs a recover from the run yesterday. 
+### Day 62: July 15, 2022
+
+**Today's Progress**: 
+- 1 hr coding practice
+
+
+**Thoughts:**
+**The happiest day of my summer (July 14, 2022)**
+
+1. Met a twin who looks identical, and sounds the same also.
+2. Met someone who is very interested in my culture and my life experience
+3. Cracked a lot of good jokes in good times, and felt like a good comedian
+4. I appreciate the people who were sitting with me at the lunch today, who made my day
+5. I sucked at ping pong for so long in the internship, now I finally start to get the strategy. Learned aggressive play style from Nathan.
+6. Played one table pool, and one smooth back pocket!
+7. The weather is pretty nice
+8. I walked Nabi for like 2 hours and he is a good boy, except he was snappy towards another dog
+9. Two Vanilla Froyo, and I got literally a half bowl of Froyo in the second one. I was like thank you so much. And she was like yeah we usually gave half bowl. I swear it was a full bowl. I wear glasses but I am not blind.
+10. I passed Amazon online assessment! I will do a 6-hour interview next week
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
