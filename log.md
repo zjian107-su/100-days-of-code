@@ -531,7 +531,7 @@ I had a super big bow of Yunnan Cross Bridge Noddle with extra noodles. I was ab
 
 **Thoughts:**
 What a productive day! I ran for 40 minutes with Nabi, and I watched some Netflix version of Planet Earth. Animals are so cool. I learned there is a breed of snails from Peru. Each single snail has different pattern and color - it's so different that the predators are also confused if it will be the same good meal as he had yesterday.😅
-### Day 61: July 14, 2022
+### Day 61: July 13, 2022
 
 **Today's Progress**: 
 - 0.5 hr coding practice
@@ -540,14 +540,14 @@ What a productive day! I ran for 40 minutes with Nabi, and I watched some Netfli
 
 **Thoughts:**
 I was too sleepy since 9PM and I couldn’t concentrate well. Maybe my leg muscle needs a recover from the run yesterday. 
-### Day 62: July 15, 2022
+### Day 62: July 14, 2022
 
 **Today's Progress**: 
 - 1 hr coding practice
 
 
 **Thoughts:**
-**The happiest day of my summer (July 14, 2022)**
+**The happiest day of my summer in intern days(July 14, 2022)**
 
 1. Met a twin who looks identical, and sounds the same also.
 2. Met someone who is very interested in my culture and my life experience
@@ -559,6 +559,38 @@ I was too sleepy since 9PM and I couldn’t concentrate well. Maybe my leg muscl
 8. I walked Nabi for like 2 hours and he is a good boy, except he was snappy towards another dog
 9. Two Vanilla Froyo, and I got literally a half bowl of Froyo in the second one. I was like thank you so much. And she was like yeah we usually gave half bowl. I swear it was a full bowl. I wear glasses but I am not blind.
 10. I passed Amazon online assessment! I will do a 6-hour interview next week
+
+### Day 63: July 15, 2022
+
+**Today's Progress**: 
+-  1.5 hrs coding practice
+-  1 hr job interview prep
+
+
+**Thoughts:**
+
+I didn’t study CS in my undergrad, and I have never done Leetcode. I didn’t see myself in big tech at first, but more of a fintech consultant guy. Stupid imposter syndrome in the past. Today when I went to order chick-fil-a for my dinner, I saw all the tall buildings around me with big names.  I took a picture of the building just to remind all is possible. I appreciate Ro’s encouragement since last year. One year I changed a shit ton and I am pretty happy. 
+
+I will call it a day.
+### Day 64: July 17, 2022
+
+**Today's Progress**: 
+-  1.5 hrs coding practice
+
+
+
+**Thoughts:**
+Just a late update from 071722
+### Day 65: July 19 , 2022
+
+**Today's Progress**: 
+-  1 hrs coding practice
+
+
+**Thoughts:**
+Just a late update from 071922
+
+
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
