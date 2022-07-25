@@ -24,3 +24,9 @@
 - 14:10 back to study
 - 14:43 went for late lunch
 - TBC
+
+## Date: 07/23/2022
+- 20:50 job app
+
+## Date: 07/24/2022
+- 22:30-23:59

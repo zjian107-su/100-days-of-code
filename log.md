@@ -586,9 +586,17 @@ Just a late update from 071722
 **Today's Progress**: 
 -  1 hrs coding practice
 
-
 **Thoughts:**
 Just a late update from 071922
+### Day 66: July 24 , 2022
+
+**Today's Progress**: 
+-  2 hrs of PPT
+
+**Thoughts:**
+My Saturday was great. I skated for a whole afternoon and I went to eat in a pretty authentic Chinese restaurant. I haven't been skating for a long while! I also found a good spot to hang out or have a group gathering.
+
+Today I spent some time to prep for tomorrow’s peer presentation review session.
 
 
 
