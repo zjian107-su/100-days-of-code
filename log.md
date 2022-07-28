@@ -581,14 +581,21 @@ I will call it a day.
 
 **Thoughts:**
 Just a late update from 071722
-### Day 65: July 19 , 2022
+### Day 66: July 19 , 2022
 
 **Today's Progress**: 
 -  1 hrs coding practice
 
 **Thoughts:**
 Just a late update from 071922
-### Day 66: July 24 , 2022
+### Day 67: July 23 , 2022
+
+**Today's Progress**: 
+-  NA
+
+**Thoughts:**
+NA
+### Day 68: July 24, 2022
 
 **Today's Progress**: 
 -  2 hrs of PPT
@@ -597,6 +604,15 @@ Just a late update from 071922
 My Saturday was great. I skated for a whole afternoon and I went to eat in a pretty authentic Chinese restaurant. I haven't been skating for a long while! I also found a good spot to hang out or have a group gathering.
 
 Today I spent some time to prep for tomorrow’s peer presentation review session.
+### Day 69: July 27, 2022
+
+**Today's Progress**: 
+-  3.25 hours of coding practice
+
+**Thoughts:**
+1. **Do you know how it feels like that you know the questions are too hard to think, and you straight start to check the answer, but the answers are also so difficult, that you spend 1 hour on each question just to understand it and make sure that you can code yourself?** 
+2. Besides that, my Ping Pong skill improved greatly. But, I prob need to pivot my energy to coding practices.
+3. My friend paid for my noodle today. I was moved.
 
 
 
