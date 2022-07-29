@@ -613,6 +613,15 @@ Today I spent some time to prep for tomorrow’s peer presentation review sessio
 1. **Do you know how it feels like that you know the questions are too hard to think, and you straight start to check the answer, but the answers are also so difficult, that you spend 1 hour on each question just to understand it and make sure that you can code yourself?** 
 2. Besides that, my Ping Pong skill improved greatly. But, I prob need to pivot my energy to coding practices.
 3. My friend paid for my noodle today. I was moved.
+### Day 70: July 28, 2022
+
+**Today's Progress**: 
+-  1 hr interview pre 
+
+**Thoughts:**
+1. Today was a lot of fun because we went belt sushi restaurant together, and I cut some watermelon for my friends. I took a video on the belt and people’s reactions were golden
+2. I also took a lunch group photo
+3. I played a bit ping pong and I am improving my skills
 
 
 
