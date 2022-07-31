@@ -622,6 +622,17 @@ Today I spent some time to prep for tomorrow’s peer presentation review sessio
 1. Today was a lot of fun because we went belt sushi restaurant together, and I cut some watermelon for my friends. I took a video on the belt and people’s reactions were golden
 2. I also took a lunch group photo
 3. I played a bit ping pong and I am improving my skills
+### Day 71: July 30, 2022
+
+**Today's Progress**: 
+-  1 hr of weekly coding competition (15828/19502 → bottom 10%) 😅. As the first timer, I think it is acceptable.
+-  10 job apps
+
+**Thoughts:**
+I had sooooooo much sleep today. 
+I had Yunnan noddle with extra noodle for lunch.
+I had a dinner.
+I can’t ask for more ;) What a luxury day😆
 
 
 
