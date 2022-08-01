@@ -633,6 +633,13 @@ I had sooooooo much sleep today.
 I had Yunnan noddle with extra noodle for lunch.
 I had a dinner.
 I can’t ask for more ;) What a luxury day😆
+### Day 72: July 31, 2022
+
+**Today's Progress**: 
+-  0.5 hr coding practice
+
+**Thoughts:**
+I learned how to say goodbye, and how are you in Russian informally, cool!
 
 
 
